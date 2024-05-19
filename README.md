@@ -28,7 +28,7 @@ be uncomfortable for people (e.g. if it's lewd).
 { word: 'hand-held', cw: 'extremely lewd' }
 ```
 
-Duplicate detection runs as a PR check, so you won't be able to merge fi you add
+Duplicate detection runs as a PR check, so you won't be able to merge if you add
 duplicate words to the arrays.
 
 ### Prettier
